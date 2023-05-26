@@ -1,0 +1,30 @@
+.centreDiv {
+    width: 100vh;
+    height: auto;
+    /* background-color: #2f3542; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 25%;
+    margin-top: 25%;
+  }
+  
+  .backdrop{
+      position : fixed;
+      top : 0;
+      left : 0;
+      width: 100%;
+      height : 100vh;
+      z-index : 20;
+      background-color: rgba(0,0,0,0.75);
+  }
+  
+  .logo {
+    color: #fff;
+    font-size: 4rem;
+    text-transform: uppercase;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    left: 35%;
+  }

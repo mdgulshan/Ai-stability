@@ -1,0 +1,8 @@
+.header{
+    text-align: center;
+    position: sticky;
+    font-size: 25px;
+    font-weight: bold;
+    
+    /* letter-spacing: 1rem; */
+}

@@ -1,0 +1,28 @@
+#labelText {
+    padding-top: 4px;
+    text-decoration: none;
+    letter-spacing: 0.1rem;
+    font-size: medium;
+}
+
+.container{
+    display:flex;
+    align-items: center;
+
+}
+
+#responseMessage{
+    text-align: center;
+    color: rgb(97, 189, 143);
+    text-decoration: none;
+    font-size: 14px;
+    letter-spacing: 0.1rem;
+}
+
+#errorResponseMessage{
+    text-align: center;
+    color: rgb(216, 47, 47);
+    text-decoration: none;
+    font-size: 14px;
+    letter-spacing: 0.1rem;
+}
